@@ -1,0 +1,16 @@
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.exe
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.deps.json
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.runtimeconfig.json
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.runtimeconfig.dev.json
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.dll
+F:\Repos\VariableExercise\VariableExercise\bin\Debug\net5.0\VariableExercise.pdb
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.csproj.AssemblyReference.cache
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.AssemblyInfoInputs.cache
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.AssemblyInfo.cs
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.csproj.CoreCompileInputs.cache
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.dll
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\refint\VariableExercise.dll
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.pdb
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\VariableExercise.genruntimeconfig.cache
+F:\Repos\VariableExercise\VariableExercise\obj\Debug\net5.0\ref\VariableExercise.dll
